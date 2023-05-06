@@ -1,5 +1,5 @@
 baseurl = "https://kamek.pages.dev"
-title = "Making things & Breaking things"
+title = "Making things & Breaking things w/ Love"
 theme = "hugo-coder-forked"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -15,8 +15,8 @@ enableGitInfo = true
 
 [params]
 author = "Kamek"
-info = ["Full Stack DevOps and Magician"]
-description = "Kirill Kazakov's personal page"
+info = ["Craftsman and Magician"]
+description = "Dana Moore's personal page"
 keywords = "blog,businesscard,personal,devops,kksudo,kirill,kazakov"
 gravatar = "kamek437@gmail.com"
 
