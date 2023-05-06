@@ -45,19 +45,19 @@ target = "_blank"
 name = "Gitlab"
 icon = "fa fa-gitlab fa-2x"
 weight = 2
-url = "https://gitlab.com/kamek437"
+url = "https://gitlab.com/kamek437/"
 target = "_blank"
 [[params.social]]
 name = "Instagram"
 icon = "fa fa-instagram fa-2x"
 weight = 3
-url = "https://www.instagram.com/kamek437"
+url = "https://www.instagram.com/kamek437/"
 target = "_blank"
 [[params.social]]
 name = "Linkedin"
 icon = "fa fa-linkedin fa-2x"
 weight = 5
-url = "https://www.linkedin.com/in/kamek437/"
+url = "https://www.linkedin.com/in/kamek/"
 target = "_blank"
 [[params.social]]
 name = "kamek437@gmail.com"
