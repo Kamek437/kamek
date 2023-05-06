@@ -1,5 +1,5 @@
 baseurl = "https://kamek.pages.dev"
-title = "Making things & Breaking things w/ Love"
+title = "Kamek Love's Code"
 theme = "hugo-coder-forked"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -17,7 +17,7 @@ enableGitInfo = true
 author = "Kamek"
 info = ["Craftsman and Magician"]
 description = "Dana Moore's personal page"
-keywords = "blog,businesscard,personal,devops,kksudo,kirill,kazakov"
+keywords = "blog,businesscard,personal,devops,software development,coding,kamek437,kamek,dana,moore,kamek"
 gravatar = "kamek437@gmail.com"
 
 since = 2010
