@@ -1,5 +1,5 @@
 baseurl = "https://kamek.pages.dev"
-title = "Make things/Break things"
+title = "Making things & Breaking things"
 theme = "hugo-coder-forked"
 languagecode = "en"
 defaultcontentlanguage = "en"
