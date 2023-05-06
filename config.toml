@@ -1,4 +1,4 @@
-baseurl = "https://kazakov.xyz"
+baseurl = "https://kamek.pages.dev"
 title = "DevOps with love"
 theme = "hugo-coder-forked"
 languagecode = "en"
@@ -10,22 +10,22 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "kksudo"
+disqusShortname = "kamek437"
 enableGitInfo = true
 
 [params]
-author = "Kirill Kazakov"
+author = "Kamek"
 info = ["Full Stack DevOps and Magician"]
 description = "Kirill Kazakov's personal page"
 keywords = "blog,businesscard,personal,devops,kksudo,kirill,kazakov"
-gravatar = "k@kazakov.xyz"
+gravatar = "kamek437@gmail.com"
 
 since = 2010
 enableTwemoji = true
 colorScheme = "auto"
 hidecolorschemetoggle = false
 # Git Commit in Footer, uncomment the line below to enable it
-commit = "https://github.com/kksudo/kazakov.xyz/tree/"
+commit = "https://github.com/kamek437/kamek/tree/"
 powered_by = true
 # Series see also post count
 maxSeeAlsoItems = 5
@@ -39,31 +39,31 @@ author = "authors"
 name = "Github"
 icon = "fa fa-github fa-2x"
 weight = 1
-url = "https://github.com/kksudo/"
+url = "https://github.com/kamek437/"
 target = "_blank"
 [[params.social]]
 name = "Gitlab"
 icon = "fa fa-gitlab fa-2x"
 weight = 2
-url = "https://gitlab.com/kksudo"
+url = "https://gitlab.com/kamek437"
 target = "_blank"
 [[params.social]]
 name = "Instagram"
 icon = "fa fa-instagram fa-2x"
 weight = 3
-url = "https://www.instagram.com/kk_sudo/"
+url = "https://www.instagram.com/kamek437"
 target = "_blank"
 [[params.social]]
 name = "Linkedin"
 icon = "fa fa-linkedin fa-2x"
 weight = 5
-url = "https://www.linkedin.com/in/kazakovk/"
+url = "https://www.linkedin.com/in/kamek437/"
 target = "_blank"
 [[params.social]]
-name = "k@kazakov.xyz"
+name = "kamek437@gmail.com"
 icon = "fa fa-envelope fa-2x"
 weight = 6
-url = "mailto:k@kazakov.xyz"
+url = "mailto:kamek437@gmail.com"
 target = "_blank"
 
 # Menu links
