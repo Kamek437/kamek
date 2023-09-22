@@ -75,5 +75,8 @@ url  = "/"
 name = "About"
 weight = 3
 url = "about/"
-
+[[languages.en.menu.main]]
+name = "Posts"
+weight = 2
+url = "posts/"
 
