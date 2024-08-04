@@ -15,8 +15,8 @@ enableGitInfo = true
 
 [params]
 author = "Kamek"
-info = ["Craftsman and Wizard"]
-description = "Dana Moore's personal page"
+info = ["Craftsman Of Bits"]
+description = "kamek's personal page"
 keywords = "blog,businesscard,personal,devops,software development,coding,kamek437,kamek,dana,moore,kamek"
 gravatar = "kamek437@gmail.com"
 
